@@ -1,2 +1,2 @@
-pyflipper==0.21
-pyserial==3.5
+pyflipper>=0.21
+pyserial>=3.5
